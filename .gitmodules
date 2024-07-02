@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "b64"]
+	path = b64
+	url = https://github.com/extendr/b64
 [submodule "rextendr"]
 	path = rextendr
 	url = https://github.com/extendr/rextendr
