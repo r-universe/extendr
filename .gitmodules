@@ -5,6 +5,9 @@
 [submodule "b64"]
 	path = b64
 	url = https://github.com/extendr/b64
+[submodule "h3o"]
+	path = h3o
+	url = https://github.com/extendr/h3o
 [submodule "rextendr"]
 	path = rextendr
 	url = https://github.com/extendr/rextendr
